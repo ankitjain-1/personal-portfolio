@@ -1,16 +1,16 @@
 {
-    "name": "Ankit Jain",
-    "short_name": "Ankit Jain",
-    "start_url": "index.html",
-    "display": "standalone",
-    "background_color": "#fdfdfd",
-    "theme_color": "#000",
-    "orientation": "portrait-primary",
-    "icons": [
-      {
-        "src": "/assets/img/logo2/AJ-figma-noshadow.svg",
-        "type": "image/png", "sizes": "512x512"
-      }
-    ]
-  }
-  
+  "name": "Ankit Jain",
+  "short_name": "Ankit Jain",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#fdfdfd",
+  "theme_color": "#000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/assets/img/logo2/Aj",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
